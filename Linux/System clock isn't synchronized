@@ -1,6 +1,10 @@
-# Manjaro
+### CONTEXT: 
 
-# In terminal, run:
+Manjaro XFCE clock isn't synchronized after installation.
+
+### SOLUTION: 
+
+Run in terminal:
 
 systemctl disable ntpd.service
 systemctl stop ntpd.service
