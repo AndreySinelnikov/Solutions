@@ -9,3 +9,5 @@ However, dealing with SSH keys is sort of a hassle and you'd want to set up simp
     SELECT 'Get from VCS' & SELECT 'GitHub Enterprise' & SELECT 'Generate Token'. 
 
 (NOTE: You'd have to align with GHE with the token next, I don't remember the exact steps but it should be self-explanatory)
+
+(NOTE: The authentication would also not work outside IDEA, but eh)
