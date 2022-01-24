@@ -12,4 +12,4 @@ Then, in Planning menu, click current board name and select "Create board" in th
 Select a Kanban template and name it. 
 
 Now you'll have an option to switch between boards (views, really) while interacting with the same set of issues
-without much filter hassle.
+without much filter-related hassle.
