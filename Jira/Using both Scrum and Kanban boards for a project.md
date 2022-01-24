@@ -5,7 +5,8 @@ You'd want to switch between Scrum and Kanban approaches during work on your pro
 ### SOLUTION:
 
 When creating Jira project, choose Company-managed Scrum template. 
-_(In fact, always choose Company-managed, Team-managed is useless)._
+
+_(In fact, always choose Company-managed, Team-managed is useless. If you're on a free subscription, anyone you invite will have admin rights on your projects anyway.)_
 
 Then, in Planning menu, click current board name and select "Create board" in the dropdown menu.
 Select a Kanban template and name it. 
