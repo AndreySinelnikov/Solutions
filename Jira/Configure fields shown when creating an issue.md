@@ -1,6 +1,7 @@
 ### CONTEXT 
 
-When creating issues, for example, you get too many unnecessary fields to fill. You'd want to remove them.
+When creating issues, for example, you get too many unnecessary fields to fill. You'd want to remove them. 
+Turns out Jira allows that by configuring _screens_. 
 
 ### SOLUTION 
 
