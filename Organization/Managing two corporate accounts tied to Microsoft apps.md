@@ -7,7 +7,7 @@ MS Teams desktop client has no convenient means of switching accounts as of yet.
 ### SOLUTION:
 
 One way to approach this problem is to install two different web browsers and
-set up one of these as a "company account browser".
+set up one of these as a "specific company account browser".
 Then you could use the first company credentials in MS Teams for web and MS Outlook in one browser,
 and the second company credentials for desktop Teams and Outlook, without constantly switching accounts.
 
