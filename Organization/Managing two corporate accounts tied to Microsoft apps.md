@@ -12,4 +12,4 @@ Then you could use the first company credentials in MS Teams for web and MS Outl
 and the second company credentials for desktop Teams and Outlook, without constantly switching accounts.
 
 Outlook (at least the web version) also lets you synchronize calendars from different accounts, 
-which is convenient, but company policy may prevent you from doing so.
+which is convenient, but company policy might prevent you from doing so.
