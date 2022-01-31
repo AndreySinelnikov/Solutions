@@ -1,0 +1,8 @@
+### CONTEXT 
+
+It would be useful to add or remove displayed information to a Kanban card thumbnail, 
+for example, activate/deactivate dot indicator that shows how long the issue has been sitting on the board.
+
+### SOLUTION 
+
+1. IN project board view, SELECT '...' > 'Board settings' > 'Card layouts' 
