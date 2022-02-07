@@ -12,6 +12,6 @@ However, dealing with SSH keys is sort of a hassle and you'd want to set up simp
     SELECT 'GitHub Enterprise' & TYPE your enterprise server address into server field & SELECT 'Generate Token' & SELECT 'Log in'
 
 
-(NOTE: You'd have to align with GHE with the token next, I don't remember the exact steps but it should be self-explanatory)
+(NOTE: You'd have to align with GHE with the token via the browser next, accepting the default settings should be enough)
 
 (NOTE: The authentication would also not work outside IDEA, but eh)
