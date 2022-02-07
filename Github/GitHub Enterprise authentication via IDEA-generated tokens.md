@@ -6,7 +6,11 @@ However, dealing with SSH keys is sort of a hassle and you'd want to set up simp
 ### SOLUTION:
 
 1. IN Intellij IDEA start screen, 
-    SELECT 'Get from VCS' & SELECT 'GitHub Enterprise' & SELECT 'Generate Token'. 
+    SELECT 'Get from VCS'
+    
+2. IN 'Get from version control' menu,
+    SELECT 'GitHub Enterprise' & TYPE your enterprise server address into server field & SELECT 'Generate Token' & SELECT 'Log in'
+
 
 (NOTE: You'd have to align with GHE with the token next, I don't remember the exact steps but it should be self-explanatory)
 
