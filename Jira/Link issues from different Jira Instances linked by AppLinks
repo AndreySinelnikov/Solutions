@@ -1,0 +1,6 @@
+1. IN issue card editing screen, 
+  SELECT 'Link Issue'
+  
+2. IN the dropdown, 
+  SELECT target linked Jira instance to access issues from this instance
+  
