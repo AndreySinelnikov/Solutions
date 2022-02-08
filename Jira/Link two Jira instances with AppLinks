@@ -1,0 +1,9 @@
+1. IN Jira 'Settings' > 'Products' > 'Application links' prompt,
+  ENTER second Jira instance address & SELECT 'Create New link' (EXAMPLE: 'https://targetinstance.atlassian.net')
+  
+2. IN remote Jira application 'Connections' prompt,
+  SELECT 'OAuth' for both 'Outgoing' and 'Incoming' (NOTE: You don't need to create OAuth token, Jira gives you a default one)
+  
+3. IN targeted Jira instance, EXECUTE 1 & 2 for the initial instance
+
+(NOTE: A person doing that should have admin rights in the targeted instance. A successful link will be marked with 'Connected' status)
