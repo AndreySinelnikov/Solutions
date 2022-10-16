@@ -1,0 +1,4 @@
+1. IN TERM,
+  RUN ping <server URL> 
+2. IN etc/hosts,
+  ADD <IP displayed in step 1> <server URL>
