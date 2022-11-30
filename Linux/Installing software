@@ -1,0 +1,7 @@
+# from tar.xz file 
+
+1. IN desired software directory,
+  ADD tar.xz file
+
+2. IN desired software directory,
+  RUN tar xvf <filename.tar.xz>
