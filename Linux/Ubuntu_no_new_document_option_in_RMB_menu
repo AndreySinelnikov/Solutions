@@ -1,0 +1,4 @@
+# ~/Templates/ contains document templates. Add an 'Empty Document' template there, and you'll get it in RMB menu 
+
+1. IN TERM,
+  RUN touch ~/Templates/Empty\ Document
