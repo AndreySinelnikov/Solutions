@@ -1,0 +1,5 @@
+1. IN 'Show applications' menu > search prompt,
+  TYPE Drivers && SELECT Additional Drivers
+
+2. IN Additional Drivers menu,
+  SELECT Using DKMS source for the Realtek 8821C... (might need to run apt upgrade to work) && SELECT Apply Changes
