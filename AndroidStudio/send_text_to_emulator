@@ -1,0 +1,2 @@
+IN TERM,
+  RUN adb shell input text 'example text with escape \$ characters'
